@@ -18,7 +18,8 @@ Il notebook mostra come integrare avvistamenti di meduse con dati ambientali (te
 <img width="815" height="156" alt="image" src="https://github.com/user-attachments/assets/8b2381b9-9f73-4558-9120-480db8ff1a3b" />
 
 
-<img width="1894" height="640" alt="image" src="https://github.com/user-attachments/assets/2245f55a-9497-41aa-8149-4ace253f89a5" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5dffb229-2022-4bdc-bbe6-2a6d0676bcf2" />
+
 
 
 
