@@ -4,17 +4,94 @@
   <meta charset="UTF-8">
   <title>Jelly Guard Demo</title>
   <style>
-    body { font-family: Arial, sans-serif; text-align: center; }
-    img { max-width: 80%; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
+    body { 
+      font-family: Arial, sans-serif; 
+      text-align: center; 
+      background-color: #f8fcff; 
+      margin: 0; 
+      padding: 20px;
+    }
+    h1 { 
+      color: #003366; 
+      margin-bottom: 10px; 
+    }
+    p.intro {
+      color: #444; 
+      font-size: 18px; 
+      margin-bottom: 40px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    figure {
+      background: #fff;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+    }
+    figure img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+    figcaption {
+      margin-top: 12px;
+      font-size: 15px;
+      color: #333;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 14px;
+      color: #555;
+    }
   </style>
 </head>
 <body>
-  <h1>Jelly Guard – Demo Mockups</h1>
-  <p>Concept images of the early-warning system for jellyfish blooms.</p>
-  <img src="jellyfish-bloom.jpg" alt="Problem - Jellyfish Bloom">
-  <img src="prototype-map.png" alt="Prototype Forecast Map">
-  <img src="prototype-alert.png" alt="Prototype Alert Interface">
-  <img src="pipeline-diagram.png" alt="Pipeline Workflow">
-  <img src="bluecloud-flow.png" alt="Blue-Cloud Integration">
+
+  <h1>Jelly Guard – Demo Prototype</h1>
+  <p class="intro">
+    Concept images of the early-warning system for jellyfish blooms, developed for the Blue-Cloud Hackathon 2025.
+  </p>
+
+  <main class="grid">
+    <!-- CARD 1: MAP -->
+    <figure>
+      <img src="prototipo-map.png" alt="Jelly Guard prototype forecast map">
+      <figcaption>
+        Forecast map: risk zones (Low / Medium / High) based on satellite and oceanographic data combined with predictive models.
+      </figcaption>
+    </figure>
+
+    <!-- CARD 2: ALERT -->
+    <figure>
+      <img src="Demo Jelly Fish alert system.png" alt="Jelly Guard risk alert interface">
+      <figcaption>
+        Mobile alert interface: real-time notifications for swimmers, beach operators, and coastal authorities.
+      </figcaption>
+    </figure>
+  </main>
+
+  <section style="max-width: 800px; margin: 40px auto; text-align: left;">
+    <h2>How it works</h2>
+    <p>
+      Jolly Guard collects marine and satellite data from Blue-Cloud services and other sources. 
+      The system processes these datasets with machine learning models to predict jellyfish blooms.
+    </p>
+    <p>
+      Forecast results are displayed on interactive maps and transformed into alerts for end users. 
+      The goal is to support early-warning, increase marine safety, and protect local economies.
+    </p>
+  </section>
+
+  <footer>
+    © 2025 Jolly Guard – Intellectual property of Leonardo Tronci. <br>
+    Developed for the Blue-Cloud Hackathon 2025. <br>
+    Contact for future developments: <a href="mailto:Leo.Tronci@tiscali.it">Leo.Tronci@tiscali.it</a>
+  </footer>
+
 </body>
 </html>
