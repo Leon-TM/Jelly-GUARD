@@ -7,6 +7,7 @@ Smart Jellyfish Alert System for Early Warning and Marine Safety - Blue-Cloud Ha
 ## About This Project
 
 Jolly Guard is an innovative early warning system developed for the Blue-Cloud Hackathon 2025 that combines satellite data, oceanographic models, and machine learning to predict jellyfish blooms and enhance marine safety.
+**Website**: https://leon-tm.github.io/Jelly-GUARD/#prototype
 
 ## 🚀 Demo Tecnica
 
