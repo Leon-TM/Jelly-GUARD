@@ -10,10 +10,7 @@ Jolly Guard is an innovative early warning system developed for the Blue-Cloud H
 
 ## 🚀 Demo Tecnica
 
-- Mockup interattivi disponibili qui: [Demo Gallery](demo/index.html)
-- Notebook dimostrativo (Proof of Concept): [notebooks/jellyguard_demo.ipynb](notebooks/jellyguard_demo.ipynb)
-
-Il notebook mostra come integrare avvistamenti di meduse con dati ambientali (temperatura superficiale, clorofilla, correnti superficiali) per generare un **rischio geolocalizzato** visualizzato su mappa.
+Il sistema del prototipo robotico "Jelly Fish Robot" mostra come integrare avvistamenti di meduse con dati ambientali (temperatura superficiale, clorofilla, correnti superficiali) per generare un **rischio geolocalizzato** visualizzato su mappa.
 
 <img width="815" height="156" alt="image" src="https://github.com/user-attachments/assets/8b2381b9-9f73-4558-9120-480db8ff1a3b" />
 
