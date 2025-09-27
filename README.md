@@ -15,6 +15,9 @@ Jolly Guard is an innovative early warning system developed for the Blue-Cloud H
 
 Il notebook mostra come integrare avvistamenti di meduse con dati ambientali (temperatura superficiale, clorofilla, correnti superficiali) per generare un **rischio geolocalizzato** visualizzato su mappa.
 
+<img width="815" height="156" alt="image" src="https://github.com/user-attachments/assets/8b2381b9-9f73-4558-9120-480db8ff1a3b" />
+
+
 <img width="1894" height="640" alt="image" src="https://github.com/user-attachments/assets/2245f55a-9497-41aa-8149-4ace253f89a5" />
 
 
